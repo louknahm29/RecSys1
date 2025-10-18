@@ -1,4 +1,11 @@
-# packages.txt
-libsm6
-libxext6
-libxrender1
+"scripts": {
+
+  "start": "node app.js",
+
+  "build": "vite build",
+
+  "postinstall": "next build"
+
+}
+
+  
