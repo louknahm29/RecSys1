@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 import pickle
 from pathlib import Path
 from myfunction_67130701929 import get_movie_recommendations
